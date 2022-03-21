@@ -18,9 +18,38 @@
     color: green;
 }
 
-#winnie {
+.img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
 
+.main {
+    text-align: center;
+    color: green;
+}
+
+.tlist {
+    color: green;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.link1 {
+    display: block;
+    text-align: center;
+}
+
+.tback {
+    background-color: yellow;
 }
