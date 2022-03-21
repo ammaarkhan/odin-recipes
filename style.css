@@ -1,0 +1,26 @@
+/* Style Sheet */
+
+.header{
+    color: orange;
+    background-color: aqua;
+    text-align: center;
+}
+
+.fl{
+    color: red;
+}
+
+.sl{
+    color: rgb(255, 183, 0);
+}
+
+.tl{
+    color: green;
+}
+
+#winnie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
