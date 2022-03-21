@@ -1,5 +1,8 @@
 /* Style Sheet */
 
+.homeback {
+    background-color: aqua;
+}
 .header{
     color: orange;
     background-color: aqua;
@@ -68,3 +71,16 @@ ol {
     color: red;
 }
 
+/* For bread */
+.main2 {
+    color:rgb(255, 183, 0);
+    text-align: center;
+}
+
+.sback {
+    background-color: green;
+}
+
+.slist {
+    color: rgb(255, 183, 0);
+}
