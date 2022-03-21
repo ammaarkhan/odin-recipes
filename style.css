@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+.links {
+    display: block;
+    text-align: center;
+}
+
 .fl{
     color: red;
 }
@@ -24,7 +29,7 @@
     margin-right: auto;
 }
 
-.main {
+.main1 {
     text-align: center;
     color: green;
 }
@@ -45,11 +50,21 @@ ol {
     text-align: left;
 }
 
-.link1 {
-    display: block;
-    text-align: center;
-}
-
 .tback {
     background-color: yellow;
 }
+
+/* For pasta html*/
+.mains {
+    color: red;
+    text-align: center;
+}
+
+.fback {
+    background-color: yellow;
+}
+
+.flist {
+    color: red;
+}
+
